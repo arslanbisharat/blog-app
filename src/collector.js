@@ -8,9 +8,9 @@ class Collector extends React.Component {
     super(props)
     this.state = {
       posts: [
-        new Post(1, 'First Post', 'This is the first post !', 'Papi'),
-        new Post(2, 'Second Post', 'This is the second post !', 'PapiHack'),
-        new Post(3, 'Third Post', 'This is the third post !', 'MrD3c0d3R'),
+        new Post(1, 'Happry Potter', 'This is Chapter one of Harry Potter Series', 'JK Rowling'),
+        new Post(2, 'Fantastic Beast', 'This is Chapter one of Harry Potter Series Fantastic Beast', 'JK Rowling'),
+        new Post(3, 'Titanic', 'This a movie based on a Novel!', 'Shakespear'),
       ]
     }
   }
