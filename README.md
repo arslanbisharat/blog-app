@@ -1,9 +1,9 @@
 # React and Redux Project: Blog App
 
-
 ## Table of contents
 
-- [React and Redux Capstone Project: catalog os Statistics](#react-and-redux-capstone-project-catalog-os-statistics)
+- [React and Redux Project: Blog App](#react-and-redux-capstone-project-catalog-os-statistics)
+
   - [Table of contents](#table-of-contents)
   - [About](#about)
   - [Technologies used](#technologies-used)
@@ -17,7 +17,7 @@
 
 Link to a live version [here][live-version].
 
-Repository: https://github.com/arslanbisharat/blog-app
+[Repository](https://github.com/arslanbisharat/blog-app)
 
 
 ### How to open
